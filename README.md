@@ -4,6 +4,21 @@
 A complete project demonstrating **JWT (JSON Web Token) based authentication and authorization** using **Spring Boot 3**, **Spring Security**, and **MySQL Database**.  
 This project provides secure login, token generation, token validation, and role-based access to APIs.
 
+
+
+> **Spring Boot JWT Authentication and Authorization Project** — Build secure REST APIs using Spring Security and JWT tokens. Features include user registration, login, token generation, validation, and role-based authorization. Complete end-to-end authentication example for backend developers. Powered by Java, Spring Boot 3, and MySQL.
+
+---
+
+### One-line Version (if GitHub About text limit is short)
+
+> Spring Boot 3 JWT Authentication and Authorization example with secure login, registration, token validation, and role-based API access.
+
+---
+
+✅ This will **perfectly match** your project and help it get indexed well by **GitHub** and **Google**!  
+✅ Also looks **professional** if recruiters or companies check your GitHub.
+
 ---
 
 ## 🚀 Features
